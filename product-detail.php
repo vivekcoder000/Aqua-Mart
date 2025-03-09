@@ -106,7 +106,7 @@ https://www.tooplate.com/view/2127-little-fashion
                                     <div>
                                         <span class="product-alert">Discounted Price</span>
 
-                                        <img src="images/product/slot1.jpg" class="img-fluid product-image" alt="">
+                                        <img src="assets/slot1.jpg" class="img-fluid product-image" alt="">
                                         <h5 class="product-title mb-0">
 
                                             <a href="product-detail.html" class="product-title-link">Siamese Betta</a>
@@ -136,7 +136,7 @@ https://www.tooplate.com/view/2127-little-fashion
                                 <div class="product-info d-flex">
                                     <div>
                                         <h5 class="product-title mb-0">
-                                            <img src="images/product/slot10.jpg" class="img-fluid product-image" alt="">
+                                            <img src="assets/slot.1" class="img-fluid product-image" alt="">
                                             <a href="product-detail.html" class="product-title-link">Tamed African Love Birds</a>
                                         </h5>
 
@@ -163,7 +163,7 @@ https://www.tooplate.com/view/2127-little-fashion
                                         <span class="product-alert">Discounted Price</span>
 
                                         <h5 class="product-title mb-0">
-                                            <img src="images/product/slot2.jpg" class="img-fluid product-image" alt="">
+                                            <img src="assets/slot2.jpg" class="img-fluid product-image" alt="">
                                             <a href="product-detail.html" class="product-title-link">Albino Full Red Guppy</a>
                                         </h5>
 
@@ -196,7 +196,7 @@ https://www.tooplate.com/view/2127-little-fashion
             
                                             <div class="product-info d-flex">
                                                 <div>
-                                                    <img src="images/product/slot71.jpg" class="img-fluid product-image" alt="">
+                                                    <img src="assets/slot71.jpg" class="img-fluid product-image" alt="">
                                                     <h5 class="product-title mb-0">
                                                         <a href="product-detail.html" class="product-title-link">Apple Snail</a>
                                                     </h5>
@@ -225,7 +225,7 @@ https://www.tooplate.com/view/2127-little-fashion
                                             <div class="product-info d-flex">
                                                 <div>
                                                     <h5 class="product-title mb-0">
-                                                        <img src="images/product/slot110.jpg" class="img-fluid product-image" alt="">
+                                                        <img src="assets/slot110.jpg" class="img-fluid product-image" alt="">
                                                         <a href="product-detail.html" class="product-title-link">Doll Face Kitten</a>
                                                     </h5>
             
@@ -250,7 +250,7 @@ https://www.tooplate.com/view/2127-little-fashion
                                             <div class="product-info d-flex">
                                                 <div>
                                                     <h5 class="product-title mb-0">
-                                                        <img src="images/product/slot6.jpg" class="img-fluid product-image" alt="">
+                                                        <img src="assets/slot6.jpg" class="img-fluid product-image" alt="">
                                                         <a href="product-detail.html" class="product-title-link">Ram Shorn Snail</a>
                                                     </h5>
             
@@ -284,7 +284,7 @@ https://www.tooplate.com/view/2127-little-fashion
                         
                                                         <div class="product-info d-flex">
                                                             <div>
-                                                                <img src="images/product/slot5.jpg" class="img-fluid product-image" alt="">
+                                                                <img src="assets/slot5.jpg" class="img-fluid product-image" alt="">
                                                                 <h5 class="product-title mb-0">
                                                                     <a href="product-detail.html" class="product-title-link">Golden Black Yellow Shrimp</a>
                                                                 </h5>
@@ -313,7 +313,7 @@ https://www.tooplate.com/view/2127-little-fashion
                                                         <div class="product-info d-flex">
                                                             <div>
                                                                 <h5 class="product-title mb-0">
-                                                                    <img src="images/product/slot4.jpg" class="img-fluid product-image" alt="">
+                                                                    <img src="assets/slot4.jpg" class="img-fluid product-image" alt="">
                                                                     <a href="product-detail.html" class="product-title-link">Hill Stream Loach</a>
                                                                 </h5>
                         
@@ -337,7 +337,7 @@ https://www.tooplate.com/view/2127-little-fashion
                                                         <div class="product-info d-flex">
                                                             <div>
                                                                 <h5 class="product-title mb-0">
-                                                                    <img src="images/product/slot3.jpg" class="img-fluid product-image" alt="">
+                                                                    <img src="assets/slot3.jpg" class="img-fluid product-image" alt="">
                                                                     <a href="product-detail.html" class="product-title-link">Cray Fish</a>
                                                                 </h5>
                         
@@ -365,7 +365,7 @@ https://www.tooplate.com/view/2127-little-fashion
                     
                                                     <div class="product-info d-flex">
                                                         <div>
-                                                            <img src="images/product/Sea Horse.jpg" class="img-fluid product-image" alt="">
+                                                            <img src="assets/Sea Horse.jpg" class="img-fluid product-image" alt="">
                                                             <h5 class="product-title mb-0">
                                                                 <a href="product-detail.html" class="product-title-link">Hippocampus Sea Horse</a>
                                                             </h5>
@@ -394,7 +394,7 @@ https://www.tooplate.com/view/2127-little-fashion
                                                     <div class="product-info d-flex">
                                                         <div>
                                                             <h5 class="product-title mb-0">
-                                                                <img src="images/product/Aquarium.jpg" class="img-fluid product-image" alt="">
+                                                                <img src="assets/Aquarium.jpg" class="img-fluid product-image" alt="">
                                                                 <a href="product-detail.html" class="product-title-link">Aquarium with Terrarium Plants</a>
                                                             </h5>
                     
@@ -418,7 +418,7 @@ https://www.tooplate.com/view/2127-little-fashion
                                                     <div class="product-info d-flex">
                                                         <div>
                                                             <h5 class="product-title mb-0">
-                                                                <img src="images/product/Zebra Sea.png" class="img-fluid product-image" alt="">
+                                                                <img src="assets/Zebra Sea.png" class="img-fluid product-image" alt="">
                                                                 <a href="product-detail.html" class="product-title-link">Hippocampus Zebra Sea Horse</a>
                                                             </h5>
                     
